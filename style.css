@@ -65,14 +65,14 @@ width: 80%;
     font-size: 55px;
     font-weight: 700;
 }
-.list2{
+.list2 :: marker { 
     font-size: 24px;
     font-weight: 400;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     width: 60%;
-    ::marker
+
 }
 .first2{
     display: flex;
@@ -119,10 +119,10 @@ width: 80%;
         font-size: 32px;
         font-weight: 700;
     }
-    .list2{
+    .list2 :: marker {
         font-size: 14px;
         font-weight: 400;
-        ::marker
+
     }
     .text2{
         display: flex;
@@ -172,11 +172,10 @@ width: 80%;
         font-size: 26px;
         font-weight: 700;
     }
-    .list2{
+    .list2 :: marker {
         font-size: 12px;
         font-weight: 400;
-        width: 300px;
-        ::marker
+        width: 300px:
     }
     .main2{
         display: flex;
