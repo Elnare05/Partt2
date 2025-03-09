@@ -172,10 +172,10 @@ width: 80%;
         font-size: 26px;
         font-weight: 700;
     }
-    .list2 :: marker {
+    .list2 {
         font-size: 12px;
         font-weight: 400;
-        width: 300px:
+        width: 280px;
     }
     .main2{
         display: flex;
